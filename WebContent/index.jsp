@@ -10,6 +10,7 @@
 	</head>
 	<body>
 		<h3>로그인 페이지</h3>
+		<from>
 		<table>
 			<tr>
 				<td>ID</td>
@@ -25,6 +26,7 @@
 				</td>
 			</tr>
 		</table>
+		</from>
 	</body>
 	<script></script>
 </html>
