@@ -11,7 +11,10 @@
 	<body>
 
 		<ul>
-			<li>첫번째  리스트</li>
+			<li>LIST</li>
+			<li>LIST</li>
+			<li>LIST</li>
+			<li>LIST</li>
 		</ul>
 
 	</body>
